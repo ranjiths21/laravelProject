@@ -1,0 +1,5 @@
+register->shows user profile
+admin login->shows user list wit edit and delete
+admin login password
+   email: adminexample@gmail.com
+    password:password
